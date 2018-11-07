@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## angular-spotiapp
+This is an application that use the spotify's API
+* Remember: the expiration time of token is 1 hour, after that you had to generate a new token
